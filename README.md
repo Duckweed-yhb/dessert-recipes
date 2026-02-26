@@ -31,6 +31,9 @@
 dessert-recipes/
 ├── LICENSE
 ├── README.md
+├── images/          # 甜点成品/过程图片
+│   └── cover/          # 封面图
+│       └── 无模具・无蛋挞皮・葡萄干奶香蛋挞（烤箱版）.jpg
 ├── recipes/          # 详细教程文档
 │   └── 无模具・无蛋挞皮・奶香蛋挞（碗烤版）.md
 ```
