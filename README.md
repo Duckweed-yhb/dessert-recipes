@@ -3,7 +3,7 @@
 > 记录每一次与甜点相遇的美好时光，分享详细的制作教程和成品展示
 
 <!-- AUTO-GENERATED-COVER:START -->
-![甜点封面图](https://placehold.co/1200x400/e8f4f8/6c757d?text=Sweet+Dessert+Recipes)
+![甜点封面图](https://placehold.co/1200x400/e8f4f8/6c757d?text=No+Cover+Yet)
 <!-- AUTO-GENERATED-COVER:END -->
 
 ## 📖 关于本仓库
@@ -17,21 +17,22 @@
 <!-- AUTO-GENERATED-RECIPES:START -->
 | 甜点类型 | 名称 | 难度 | 制作时长 |
 |----------|------|------|----------|
-| 暂无     | 暂无 | 暂无 | 暂无     |
+| 甜品 | 无模具・无蛋挞皮・葡萄干奶香蛋挞（烤箱版） | ⭐ | 30分钟 |
 <!-- AUTO-GENERATED-RECIPES:END -->
 
 ## 📝 最近更新
 <!-- AUTO-GENERATED-UPDATES:START -->
-- 暂无更新记录
+- 2026-02-26：新增「无模具・无蛋挞皮・葡萄干奶香蛋挞（烤箱版）」制作教程
 <!-- AUTO-GENERATED-UPDATES:END -->
 
 ## 📂 仓库结构
 <!-- AUTO-GENERATED-STRUCTURE:START -->
 ```
 dessert-recipes/
-├── images/          # 甜点成品/过程图片
-├── recipes/         # 详细教程文档
-└── README.md        # 仓库说明文档
+├── LICENSE
+├── README.md
+├── recipes/          # 详细教程文档
+│   └── 无模具・无蛋挞皮・奶香蛋挞（碗烤版）.md
 ```
 <!-- AUTO-GENERATED-STRUCTURE:END -->
 
